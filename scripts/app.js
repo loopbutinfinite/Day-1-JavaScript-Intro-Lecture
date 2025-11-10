@@ -34,3 +34,5 @@ console.log(myArray);
 let myElement = document.getElementById("myElement");
 console.log(myElement)
 myElement.textContent = "I changed the text using JavaScript!"; //This will allow us to give a value to the myElement
+
+//This is a comment in my app.js file from BrandonsBranch
