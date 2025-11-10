@@ -1,0 +1,12 @@
+/* These are the three ways we can call upon html elements */
+h1 {
+    color: blue;
+}
+
+.myClass {
+
+}
+
+#myElement {
+
+}
